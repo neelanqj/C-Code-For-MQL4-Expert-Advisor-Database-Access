@@ -1,0 +1,9 @@
+﻿  MQLMSSQLCon.cpp
+MQLMSSQLCon.cpp(21): warning C4603: 'WIN32_LEAN_AND_MEAN': macro is not defined or definition is different after precompiled header use
+  MQLMSSQLCon.cpp(21): note: Add macro to precompiled header instead of defining here
+  MQLMSSQLCon.cpp(129): note: use of precompiled header
+MQLMSSQLCon.cpp(26): warning C4603: 'MT4_EXPFUNC': macro is not defined or definition is different after precompiled header use
+  MQLMSSQLCon.cpp(26): note: Add macro to precompiled header instead of defining here
+  MQLMSSQLCon.cpp(129): note: use of precompiled header
+  MQLMSSQLCon.vcxproj -> C:\Storage\C\MQLMSSQLCon\Release\MQLMSSQLCon.dll
+  MQLMSSQLCon.vcxproj -> C:\Storage\C\MQLMSSQLCon\Release\MQLMSSQLCon.pdb (Full PDB)

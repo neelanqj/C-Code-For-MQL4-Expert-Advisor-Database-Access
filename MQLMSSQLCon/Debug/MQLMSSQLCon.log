@@ -1,0 +1,14 @@
+﻿  Stdafx.cpp
+  AssemblyInfo.cpp
+  MQLMSSQLCon.cpp
+MQLMSSQLCon.cpp(21): warning C4603: 'WIN32_LEAN_AND_MEAN': macro is not defined or definition is different after precompiled header use
+  MQLMSSQLCon.cpp(21): note: Add macro to precompiled header instead of defining here
+  MQLMSSQLCon.cpp(129): note: use of precompiled header
+MQLMSSQLCon.cpp(26): warning C4603: 'MT4_EXPFUNC': macro is not defined or definition is different after precompiled header use
+  MQLMSSQLCon.cpp(26): note: Add macro to precompiled header instead of defining here
+  MQLMSSQLCon.cpp(129): note: use of precompiled header
+  Generating Code...
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+  AssemblyInfo.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  MQLMSSQLCon.vcxproj -> C:\Storage\C\MQLMSSQLCon\Debug\MQLMSSQLCon.dll
+  MQLMSSQLCon.vcxproj -> C:\Storage\C\MQLMSSQLCon\Debug\MQLMSSQLCon.pdb (Partial PDB)
